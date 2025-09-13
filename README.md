@@ -40,4 +40,4 @@ I’m building this project as part of my **path to expertize in Flutter develop
 ---
 
 ## 📜 License
-MIT License
+NA
