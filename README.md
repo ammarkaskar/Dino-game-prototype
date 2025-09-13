@@ -25,8 +25,8 @@ It was created as part of my **learning journey & expertization in Flutter**.
 
 ### Run locally with Flutter
 ```bash
-git clone https://github.com/your-username/flutter_dino_game.git
-cd flutter_dino_game
+git clone https://github.com/ammarkaskar/Dino-game-prototype.git
+cd Dino-game-prototype
 flutter pub get
 flutter run
 ```
