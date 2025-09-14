@@ -1,11 +1,9 @@
 import 'dart:async';
 import 'dart:math';
 import 'package:flutter/material.dart';
-
 void main() {
   runApp(const DinoGame());
 }
-
 class DinoGame extends StatelessWidget {
   const DinoGame({super.key});
 
@@ -17,14 +15,12 @@ class DinoGame extends StatelessWidget {
     );
   }
 }
-
 class GamePage extends StatefulWidget {
   const GamePage({super.key});
 
   @override
   State<GamePage> createState() => _GamePageState();
 }
-
 class _GamePageState extends State<GamePage> {
   static double dinoY = 1;
   double time = 0;
@@ -275,3 +271,4 @@ class Coin extends StatelessWidget {
     );
   }
 }
+// Ammar Kaskar
