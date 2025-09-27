@@ -271,4 +271,5 @@ class Coin extends StatelessWidget {
     );
   }
 }
+
 // Ammar Kaskar
